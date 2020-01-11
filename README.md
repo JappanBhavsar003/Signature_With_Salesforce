@@ -10,4 +10,5 @@ This repo contains simple signature utility tool to store signature at field lev
 
 **Please make sure you have created 'signature' folder in document otherwise it won't save document and gives you an error.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mnGsAW7DDlo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/mnGsAW7DDlo/0.jpg)](http://www.youtube.com/watch?v=mnGsAW7DDlo)
+
